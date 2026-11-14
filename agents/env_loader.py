@@ -1,4 +1,4 @@
-"""
+r"""
 Shared environment loader for standalone agent scripts.
 
 Agent files are often run from ``D:\drug-interaction-watchdog\agents`` during
